@@ -1,0 +1,39 @@
+.user-form {
+    background: #f7f7f7;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+
+.user-form .form-control, .user-form .form-select {
+    border-radius: 5px;
+}
+
+.user-form label {
+    font-weight: bold;
+}
+
+#loading {
+    display: none;
+    width: 50px;
+    height: 50px;
+    margin: auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+}
+
+
+#result {
+    background: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+h2 {
+    color: #0056b3;
+}
+
